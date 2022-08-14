@@ -99,7 +99,7 @@ Sensors:
 
 
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/R.jpg" width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/ULTRASONIC.jpg" width="500px">
 
 
 
@@ -107,34 +107,34 @@ Sensors:
 
 
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/OIP.jpg" width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/COLOR.jpg" width="500px">
+
 
 
 -	HUSKYLENS:The huskylens sensor are used to detect change or for the comparison between two or more different color. The huskylens were in the front of the bot.
 
 
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/R%20(1).jpg" width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/HUSKYLENS.jpg" width="500px">
+
 
 
 Motors:
 
 -	MEDIUM MOTOR: the medium motor is the primary driving base of our self driving robot.
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/MEDIUMMOTOR.jpg" width="500px">
 
-<img src="" width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/MEDIUMMOTOR.jpg" width="500px">
 
 
 -	LARGE MOTOR: the large motor acts as a steering actuator in our robot.
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/45602_Prod_01-scaled.webp" width="500px">
-
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/LARGEMOTOR.webp" width="500px">
 
 Brick:
 The spike prime Brick is the primary component of our robot. It supplies power to the robot and controls all its movements and actions. It is the part which stores all the programs neccessary for the functioning of the robot.
 
-<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%88%E0%B8%82%E0%B8%AD/GXvuO1pN1586239409-700x700.jpg" width="500px">
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/spike.jpg" width="500px">
 
 CODES:
 -	WORD BLOCKS
