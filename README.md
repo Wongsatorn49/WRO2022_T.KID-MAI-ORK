@@ -121,6 +121,7 @@ Motors:
 
 -	MEDIUM MOTOR: the medium motor is the primary driving base of our self driving robot.
 
+<img src="https://raw.githubusercontent.com/sakol289/WRO2022_DEK-IN-NOMPHONG-PROMOTE/main/other/MEDIUMMOTOR.jpg" width="500px">
 
 <img src="" width="500px">
 
