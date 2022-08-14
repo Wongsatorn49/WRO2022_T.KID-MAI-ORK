@@ -15,7 +15,8 @@ Team members:
   - Phongphat Wichaikul.
   - Wongsatorn Saehao.
 
-Coach: - Wipada Sukkeaw.
+Coach :
+  - Wipada Sukkeaw.
 
 ENGINEERING MATERIALS :
 
