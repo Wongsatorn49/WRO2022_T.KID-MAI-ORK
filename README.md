@@ -34,13 +34,13 @@ Team photos:
 -	Official photo
 
 
-<img src="" width="500px">
+<img src="https://user-images.githubusercontent.com/83978237/184657760-e94129df-15c4-47ba-a867-9981c2ea7c54.jpg" width="500px">
 
 
 -	Funny photo
 
 
-<img src="" width="500px">
+<img src="https://user-images.githubusercontent.com/83978237/184657889-78e112aa-4fa6-4906-b55f-8c2d8a496930.jpg" width="500px">
 
 
 Vehicle photos : Below are the photos of the 6 view of the self driving autonomous car.
